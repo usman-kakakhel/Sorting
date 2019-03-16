@@ -1,9 +1,6 @@
 /* *
 * Title : Algorithm Efficiency and Sorting
 * Author : Main Usman Naeem Kakakhel
-* ID : 21701015
-* Section : 2
-* Assignment : 1
 * Description : This file has all the sorting algorithms including radix, merge, bubble, quick sort.
 */
 
